@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: S1mpl3 ENG\n"
+"POT-Creation-Date: 2008-01-13 13:13+0100\n"
+"PO-Revision-Date: 2008-01-18 19:30+0100\n"
+"Last-Translator: Vector Akashi <vector @ cod2-cfg .tk>\n"
+"Language-Team: Vector Akashi <vector @ cod2-cfg .tk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: wp-content/themes/s1mpl3/archives.php:13
+msgid "Jan"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/archives.php:13
+msgid "Feb"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/archives.php:13
+msgid "Mar"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/archives.php:13
+msgid "Apr"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/archives.php:13
+msgid "May"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/archives.php:13
+msgid "Jun"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/archives.php:13
+msgid "Jul"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/archives.php:13
+msgid "Aug"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/archives.php:13
+msgid "Sep"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/archives.php:13
+msgid "Oct"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/archives.php:13
+msgid "Nov"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/archives.php:13
+msgid "Dec"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/archives.php:34
+#: wp-content/themes/s1mpl3/sidebar.php:13
+msgid "Archives"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/archives.php:49
+msgid "Calendary"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/archives.php:53
+msgid "Categories"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/archives.php:58
+msgid "All posts"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/comments.php:3
+msgid "Forbidden for you!"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/comments.php:3
+msgid "Start here..."
+msgstr ""
+
+#: wp-content/themes/s1mpl3/comments.php:9
+msgid "You have to give the password to see the comments!"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/comments.php:26
+#: wp-content/themes/s1mpl3/index.php:29
+#: wp-content/themes/s1mpl3/page.php:29
+#: wp-content/themes/s1mpl3/single.php:41
+msgid "Edit This"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/comments.php:31
+msgid "Your comment is waiting for approval."
+msgstr ""
+
+#: wp-content/themes/s1mpl3/comments.php:44
+msgid "Comments closed!"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/comments.php:48
+msgid "Leave a comment!"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/comments.php:55
+msgid "Log in"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/comments.php:55
+msgid "to leave a comment."
+msgstr ""
+
+#: wp-content/themes/s1mpl3/comments.php:62
+msgid "Logged in as: "
+msgstr ""
+
+#: wp-content/themes/s1mpl3/comments.php:65
+msgid "Name"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/comments.php:68
+msgid "(we keep it secret)"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/comments.php:68
+msgid "E-Mail"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/comments.php:71
+msgid "Webpage"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/comments.php:77
+msgid "Send"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/comments.php:79
+msgid "The xHTML tags you can use:"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/header.php:32
+msgid "Home"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/header.php:55
+msgid "Search"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/index.php:25
+#: wp-content/themes/s1mpl3/page.php:25
+#: wp-content/themes/s1mpl3/single.php:37
+msgid "'&raquo; &raquo; &raquo;"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/index.php:29
+msgid "Comments (0)"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/index.php:29
+msgid "Comments (1)"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/index.php:29
+msgid "Comments (%)"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/index.php:36
+msgid "Nothing found"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/index.php:41
+#: wp-content/themes/s1mpl3/page.php:37
+#: wp-content/themes/s1mpl3/single.php:49
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: wp-content/themes/s1mpl3/index.php:56
+msgid "Next +"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/index.php:57
+msgid "+ Previous"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/sidebar.php:24
+msgid "Meta"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/single.php:50
+#: wp-content/themes/s1mpl3/page.php:38
+#: wp-content/themes/s1mpl3/404.php:7
+msgid "404 - Nothing here"
+msgstr ""
+
+#: wp-content/themes/s1mpl3/single.php:55
+#: wp-content/themes/s1mpl3/page.php:43
+#: wp-content/themes/s1mpl3/404.php:12
+msgid "The page you are looking for is moved or deleted, sorry..."
+msgstr ""
+
